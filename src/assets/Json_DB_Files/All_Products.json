@@ -1,0 +1,677 @@
+[
+  {
+    "_id": {
+      "$oid": "634d4637d9c008dc4140ec25"
+    },
+    "category": "Standard-Laptops",
+    "description": "Acer Chromebook 512 Laptop | Intel Celeron N4020 | 12 HD+ Display | Intel UHD Graphics 600 | 4GB LPDDR4 | 32GB eMMC | Intel 9560 802.11ac Gigabit WiFi 5 | MIL-STD 810G | Chrome OS | CB512-C1KJ",
+    "url": "assets/Images/Laptops/Standard/1.jpg",
+    "price": 370
+  },
+  {
+    "_id": {
+      "$oid": "634d467cd9c008dc4140ec26"
+    },
+    "category": "Standard-Laptops",
+    "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6 FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+    "url": "assets/Images/Laptops/Standard/2.jpg",
+    "price": 615
+  },
+  {
+    "_id": {
+      "$oid": "634d46d5d9c008dc4140ec28"
+    },
+    "category": "Standard-Laptops",
+    "description": "HP Stream 11 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 11.6 HD Anti-Glare Display, Windows 11, Long Battery Life, Thin & Portable, Includes Microsoft 365  11-ak0040nr, 2021 Diamond White",
+    "url": "assets/Images/Laptops/Standard/3.jpg",
+    "price": 1280
+  },
+  {
+    "_id": {
+      "$oid": "634d47b5d9c008dc4140ec29"
+    },
+    "category": "Standard-Laptops",
+    "description": "2022 Newest Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+    "url": "assets/Images/Laptops/Standard/4.jpg",
+    "price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "634d47f1d9c008dc4140ec2a"
+    },
+    "category": "Standard-Laptops",
+    "description": "LG gram (2022) 16Z90Q Ultra Lightweight Laptop, 16 (2560 x 1600) IPS Display, Intel Evo 12th Gen i7 1260P Processor, 16GB LPDDR5, 256GB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows11, Black",
+    "url": "assets/Images/Laptops/Standard/5.jpg",
+    "price": 2315
+  },
+  {
+    "_id": {
+      "$oid": "634d4841d9c008dc4140ec2b"
+    },
+    "category": "Standard-Laptops",
+    "description": "Acer Aspire 5 A515-45-R74Z Slim Laptop | 15.6 Full HD IPS | AMD Ryzen 5 5500U Hexa-Core Mobile Processor | AMD Radeon Graphics | 8GB DDR4 | 256GB NVMe SSD | WiFi 6 | Backlit KB | Windows 11 Home<",
+    "url": "assets/Images/Laptops/Standard/6.jpg",
+    "price": 2780
+  },
+  {
+    "_id": {
+      "$oid": "634d4888d9c008dc4140ec2c"
+    },
+    "category": "Standard-Laptops",
+    "description": "ASUS Vivobook Go 15 L510 Thin & Light Laptop Computer, 15.6” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 11 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-AS02",
+    "url": "assets/Images/Laptops/Standard/7.jpg",
+    "price": 1870
+  },
+  {
+    "_id": {
+      "$oid": "634d48b3d9c008dc4140ec2d"
+    },
+    "category": "Standard-Laptops",
+    "description": "HP 17 Laptop PC, 11 Generation Intel Core, 4 GB RAM, 256 GB SSD, UHD Graphics, 17.3 HD+ Display, Windows 11 Home, Wi-Fi & Bluetooth Combo, 7 Ports, Long Battery Life, HD Webcam 17-by4025nr, 2022",
+    "url": "assets/Images/Laptops/Standard/8.jpg",
+    "price": 2100
+  },
+  {
+    "_id": {
+      "$oid": "634d48f3d9c008dc4140ec2e"
+    },
+    "category": "Standard-Laptops",
+    "description": "AMSUNG Galaxy Chromebook 4 11.6” 64GB Laptop Computer w/ 4GB RAM, Gigabit WiFi, HD Intel Celeron Processor, Compact Design, Military Grade Durability, US Version, Silver",
+    "url": "assets/Images/Laptops/Standard/9.jpg",
+    "price": 2500
+  },
+    {
+      "_id": {
+        "$oid": "634d39bed9c008dc4140ec15"
+      },
+      "category": " Monitors",
+      "description": "Acer annonces predator z1 curved Gaming",
+      "url": "assets/Images/Monitors/m1.png",
+      "price": 300
+    },
+    {
+      "_id": {
+        "$oid": "634d401dd9c008dc4140ec16"
+      },
+      "category": " Monitors",
+      "description": "Razer Raptor 144 hz Gaming Monitor",
+      "url": "assets/Images/Monitors/m2.png",
+      "price": 250
+    },
+    {
+      "_id": {
+        "$oid": "634d4089d9c008dc4140ec17"
+      },
+      "category": " Monitors",
+      "description": "Asus Mg 278q Gaming Monitor",
+      "url": "assets/Images/Monitors/m3.png",
+      "price": 280
+    },
+    {
+      "_id": {
+        "$oid": "634d40bbd9c008dc4140ec18"
+      },
+      "category": " Monitors",
+      "description": " Aorus AD 27qd annonces",
+      "url": "assets/Images/Monitors/m4.png",
+      "price": 180
+    },
+    {
+      "_id": {
+        "$oid": "634d40fdd9c008dc4140ec19"
+      },
+      "category": " Monitors",
+      "description": "Msi Samsung Curved Gaming Monitor",
+      "url": "assets/Images/Monitors/m5.png",
+      "price": 320
+    },
+    {
+      "_id": {
+        "$oid": "634d4147d9c008dc4140ec1a"
+      },
+      "category": " Monitors",
+      "description": "Omen X 35 Gaming Monitor.png",
+      "price": 240 ,
+      "url": "assets/Images/Monitors/m6.png"
+    },
+      {
+        "_id": {
+          "$oid": "634d0748b38eb48216fdd5da"
+        },
+        "category": "CPUs",
+        "description": "Intel Core i3 9th generation",
+        "url": "assets/Images/CPUs/cpu1.png",
+        "price": 300
+      },
+      {
+        "_id": {
+          "$oid": "634d07b7b38eb48216fdd5db"
+        },
+        "category": "CPUs",
+        "description": "Intel Core i5 9th generation",
+        "url": "assets/Images/CPUs/cpu2.png",
+        "price": 600
+      },
+      {
+        "_id": {
+          "$oid": "634d07ddb38eb48216fdd5dc"
+        },
+        "category": "CPUs",
+        "description": "Intel Core i7 10th generation",
+        "url": "assets/Images/CPUs/cpu3.png",
+        "price": 1200
+      },
+      {
+        "_id": {
+          "$oid": "634d0807b38eb48216fdd5dd"
+        },
+        "category": "CPUs",
+        "description": "Intel Core i9 9th generation",
+        "url": "assets/Images/CPUs/cpu5.png",
+        "price": 1800
+      },
+      {
+        "_id": {
+          "$oid": "634d0846b38eb48216fdd5de"
+        },
+        "category": "CPUs",
+        "description": "Intel Core i9 10th generation",
+        "url": "assets/Images/CPUs/cpu4.png",
+        "price": 2300
+      },
+      {
+        "_id": {
+          "$oid": "634d08ceb38eb48216fdd5df"
+        },
+        "category": "CPUs",
+        "description": "AMD ryzen 5 5600 x",
+        "url": "assets/Images/CPUs/cpu6.png",
+        "price": 2500
+      },
+        {
+          "_id": {
+            "$oid": "634d4200d9c008dc4140ec1b"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Corsair partable k63 Gaming Keyboard",
+          "url": "assets/Images/Keyboards/k1.png",
+          "price": 50
+        },
+        {
+          "_id": {
+            "$oid": "634d420bd9c008dc4140ec1c"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Razer balckwidow Gaming Keyboard",
+          "url": "assets/Images/Keyboards/k2.png",
+          "price": 65
+        },
+        {
+          "_id": {
+            "$oid": "634d4261d9c008dc4140ec1d"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Poseidon Mechanical Gaming Keyboard",
+          "url": "assets/Images/Keyboards/k3.png",
+          "price": 65
+        },
+        {
+          "_id": {
+            "$oid": "634d42ded9c008dc4140ec1e"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "GXT R188 RGB Gaming Mouse",
+          "url": "assets/Images/Mouses/mou1.png",
+          "price": 65
+        },
+        {
+          "_id": {
+            "$oid": "634d432fd9c008dc4140ec1f"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Corsair Glavie RGB Gaming Mouse",
+          "url": "assets/Images/Mouses/mou2.png",
+          "price": 55
+        },
+        {
+          "_id": {
+            "$oid": "634d4358d9c008dc4140ec20"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Logitech K675 RGB Gaming Mouse",
+          "url": "assets/Images/Mouses/mou3.png",
+          "price": 80
+        },
+        {
+          "_id": {
+            "$oid": "634d439ed9c008dc4140ec21"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Razer R188 RGB aming Mouse",
+          "url": "assets/Images/Mouses/mou4png",
+          "price": 95
+        },
+        {
+          "_id": {
+            "$oid": "634d4417d9c008dc4140ec22"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Corsair N477 RGB Gaming Mouse",
+          "url": "assets/Images/Mouses/mou6png",
+          "price": 120
+        },
+        {
+          "_id": {
+            "$oid": "634d4472d9c008dc4140ec23"
+          },
+          "category": "Mouses-Keyboards",
+          "description": "Logitech S654 RGB Gaming Mouse",
+          "url": "assets/Images/Mouses/mou5png",
+          "price": 105
+        },
+          {
+            "_id": {
+              "$oid": "634d31edd9c008dc4140ec0f"
+            },
+            "category": "  Mobile-Phones",
+            "description": "iphone 11 pro max 128 GB",
+            "url": "assets/Images/Mobiles/mp1.png",
+            "price": 100
+          },
+          {
+            "_id": {
+              "$oid": "634d3265d9c008dc4140ec10"
+            },
+            "category": "  Mobile-Phones",
+            "description": "iphone 12 128 GB",
+            "url": "assets/Images/Mobiles/mp2.png",
+            "price": 120
+          },
+          {
+            "_id": {
+              "$oid": "634d3292d9c008dc4140ec11"
+            },
+            "category": " Mobile-Phones",
+            "description": "iphone xr 256 GB",
+            "url": "assets/Images/Mobiles/mp3.png",
+            "price": 70
+          },
+          {
+            "_id": {
+              "$oid": "634d32d6d9c008dc4140ec12"
+            },
+            "category": "  Mobile-Phones",
+            "description": "samsung 20ultra 256 GB",
+            "url": "assets/Images/Mobiles/mp4.png",
+            "price": 110
+          },
+          {
+            "_id": {
+              "$oid": "634d33b6d9c008dc4140ec13"
+            },
+            "category": "  Mobile-Phones",
+            "description": "xaomi redmi note 5 128 GB",
+            "url": "assets/Images/Mobiles/mp5.png",
+            "price": 30
+          },
+          {
+            "_id": {
+              "$oid": "634d33edd9c008dc4140ec14"
+            },
+            "category": "  Mobile-Phones",
+            "description": "HUAWEI NOVA 128 GB",
+            "url": "assets/Images/Mobiles/mp6.png",
+            "price": 65
+          },
+            {
+              "_id": {
+                "$oid": "634d20c1d9c008dc4140ec02"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Seagate IronWolf Pro 16TB NAS Internal Hard Drive HDD – CMR 3.5 Inch SATA 6GB/S 7200 RPM 256MB Cache for Raid Network Attached Storage, Data Recovery Rescue Service",
+              "url": "assets/Images/Memory Storages/Internal/1.jpg",
+              "price": 269
+            },
+            {
+              "_id": {
+                "$oid": "634d20fed9c008dc4140ec03"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Toshiba N300 8TB NAS 3.5-Inch Internal Hard Drive - CMR SATA 6 GB/s 7200 RPM 256 MB Cache - HDWG480XZSTA",
+              "url": "assets/Images/Memory Storages/Internal/2.jpg",
+              "price": 135
+            },
+            {
+              "_id": {
+                "$oid": "634d21c9d9c008dc4140ec04"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Western Digital 8TB WD Red Plus NAS Internal Hard Drive HDD - 5640 RPM, SATA 6 Gb/s, CMR, 128 MB Cache, 3.5 - WD80EFZZ",
+              "url": "assets/Images/Memory Storages/Internal/3.jpg",
+              "price": 174
+            },
+            {
+              "_id": {
+                "$oid": "634d221fd9c008dc4140ec05"
+              },
+              "category": "Internal-External-Memory-Storages",
+              "description": "Western Digital 4TB WD Purple Surveillance Internal Hard Drive HDD - SATA 6 Gb/s, 64 MB Cache, 3.5 - WD40PURZ",
+              "url": "assets/Images/Memory Storages/Internal/4.jpg",
+              "price": 85
+            },
+            {
+              "_id": {
+                "$oid": "634d2274d9c008dc4140ec06"
+              },
+              "category": "Internal-External-Memory-Storages",
+              "description": "Western Digital 2TB WD Blue PC Internal Hard Drive - 7200 RPM Class, SATA 6 Gb/s, 256 MB Cache, 3.5 - WD20EZBX ",
+              "url": "assets/Images/Memory Storages/Internal/5.jpg",
+              "price": 49
+            },
+            {
+              "_id": {
+                "$oid": "634d22dbd9c008dc4140ec07"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Seagate SkyHawk 6TB Surveillance Internal Hard Drive HDD – 3.5 Inch SATA 6GB/s 256MB Cache for DVR NVR Security Camera System with Drive Health Management. Frustration Free Packaging",
+              "url": "assets/Images/Memory Storages/Internal/6.jpg",
+              "price": 159
+            },
+            {
+              "_id": {
+                "$oid": "634d2319d9c008dc4140ec08"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service ",
+              "url": "assets/Images/Memory Storages/External/1.jpg",
+              "price": 62
+            },
+            {
+              "_id": {
+                "$oid": "634d238bd9c008dc4140ec09"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "WD 5TB Elements Portable External Hard Drive USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0050BBK-WESN",
+              "url": "assets/Images/Memory Storages/External/2.jpg",
+              "price": 110
+            },
+            {
+              "_id": {
+                "$oid": "634d23cad9c008dc4140ec0a"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "Toshiba Canvio Basics 2TB Portable External Hard Drive USB 3.0, Black - HDTB420XK3AA",
+              "url": "assets/Images/Memory Storages/External/3.jpg",
+              "price": 60
+            },
+            {
+              "_id": {
+                "$oid": "634d2424d9c008dc4140ec0b"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "WD 4TB My Passport Portable External Hard Drive with backup software and password protection, Black - WDBPKJ0040BBK-WESN",
+              "url": "assets/Images/Memory Storages/External/4.jpg",
+              "price": 90
+            },
+            {
+              "_id": {
+                "$oid": "634d24b4d9c008dc4140ec0c"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "LaCie Rugged Mini 2TB External Hard Drive Portable HDD - USB 3.0 USB 2.0 Compatible, Drop Shock Dust Rain Resistant Shuttle Drive, For Mac And PC Computer",
+              "url": "assets/Images/Memory Storages/External/5.jpg",
+              "price": 100
+            },
+            {
+              "_id": {
+                "$oid": "634d2595d9c008dc4140ec0e"
+              },
+              "category": "Internal-External-Memory-Storages ",
+              "description": "UnionSine 500GB 2.5 Ultra Slim Portable External Hard Drive HDD-USB 3.0 for PC, Mac, Laptop, PS4, Xbox one,Xbox 360-HD-2510",
+              "url": "assets/Images/Memory Storages/External/6.jpg",
+              "price": 36
+            },
+              {
+                "_id": {
+                  "$oid": "634d1aa0d9c008dc4140ebf5"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Cooler Master SickleFlow 120 V2 RGB Square Frame Fan, RGB 4-Pin Customizable LEDs, Air Balance Curve Blade, Sealed Bearing, 120mm PWM Control for Computer Case & Liquid Radiator",
+                "url": "assets/Images/Cooling Fans/Internal/1.jpg",
+                "price": 14
+              },
+              {
+                "_id": {
+                  "$oid": "634d1c04d9c008dc4140ebf6"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "ARESGAME CPU Air Cooler for Intel/AMD with 5 Direct Contact Heatpipes and 120mm PWM Fan - Black",
+                "url": "assets/Images/Cooling Fans/Internal/2.jpg",
+                "price": 30
+              },
+              {
+                "_id": {
+                  "$oid": "634d1c60d9c008dc4140ebf7"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Cooler Master MasterFan MF120 Halo 3in1 Duo-Ring ARGB 3-Pin Fan, 24 Independently LEDS, 120mm PWM Static Pressure Fan, Absorbing Pads for Computer Case & Liquid Radiator",
+                "url": "assets/Images/Cooling Fans/Internal/3.jpg",
+                "price": 68
+              },
+              {
+                "_id": {
+                  "$oid": "634d1cc4d9c008dc4140ebf8"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Hk-Part CPU Cooling Fan for HP Pavilion 767776-001 767706-001 773447-001 767712-001 773384-001 Notebook PC",
+                "url": "assets/Images/Cooling Fans/Internal/4.jpg",
+                "price": 10
+              },
+              {
+                "_id": {
+                  "$oid": "634d1d19d9c008dc4140ebf9"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Bewinner Cooling Fan for Cooling Video Cards Mini System PCI Slot Blower CPU Case DC Cooling Fan New Cooling Fans PCI for Computer",
+                "url": "assets/Images/Cooling Fans/Internal/5.jpg",
+                "price": 14
+              },
+              {
+                "_id": {
+                  "$oid": "634d1d99d9c008dc4140ebfb"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "CPU Cooler with Aluminum Heatsink & Copper Core Base & 4-Pin PWM 3.5-Inch Fan with Pre-Applied TRONSTORE Thermal Paste for Intel Core i3 i5 i7 i9 Socket 1200 1151 1150 1155 1156 Desktop PC - 10th Gen",
+                "url": "assets/Images/Cooling Fans/Internal/6.jpg",
+                "price": 17
+              },
+              {
+                "_id": {
+                  "$oid": "634d1e11d9c008dc4140ebfc"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "CORSAIR iCUE H170i ELITE LCD Display Liquid CPU Cooler-Custom IPS LCD Screen-48 Dynamic RGB LEDs-140mm Fans -420mm Radiator-COMMANDER CORE Smart Lighting Controller",
+                "url": "assets/Images/Cooling Fans/Internal/7.jpg",
+                "price": 280
+              },
+              {
+                "_id": {
+                  "$oid": "634d1e82d9c008dc4140ebfd"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Wathai 4 x 120mm Mining Rig Server Rack Fan with 100V - 240V AC Power Variable Speed Control, Big Airflow for DIY Cooling CPU GPU,AV Cabinets ，TVs Routers ，Audio Amplifier, Refrigerator, Home Heater",
+                "url": "assets/Images/Cooling Fans/Internal/8.jpg",
+                "price": 221
+              },
+              {
+                "_id": {
+                  "$oid": "634d1ec6d9c008dc4140ebfe"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "CP3 120mm Silent Intelligent Control RGB Case Fan Adjustable Colorful High Performance Fans with Controller, 3-Pack",
+                "url": "assets/Images/Cooling Fans/Internal/9.jpg",
+                "price": 18
+              },
+              {
+                "_id": {
+                  "$oid": "634d1f16d9c008dc4140ebff"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "TopMate C11 Laptop Cooling Pad RGB Gaming Notebook Cooler, Laptop Fan Stand Adjustable Height with 6 Quiet Fans and Phone Holder, Computer Chill Mat, for 15.6-17.3 Inch Laptops - Ice Blue LED Light",
+                "url": "assets/Images/Cooling Fans/External/1.jpg",
+                "price": 36
+              },
+              {
+                "_id": {
+                  "$oid": "634d1fc0d9c008dc4140ec00"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "Thermaltake Massive 14 Steel Mesh Panel Dual 140mm Blue LED Fan Adjustable Speed Control 10-17 Laptop Notebook Cooling Pad CL-N001-PL14BU-At",
+                "url": "assets/Images/Cooling Fans/External/2.jpg",
+                "price": 42
+              },
+              {
+                "_id": {
+                  "$oid": "634d2009d9c008dc4140ec01"
+                },
+                "category": "Internal-External-Cooling-Fans",
+                "description": "TECKNET Laptop Cooling Pad Portable Slim Quiet USB Powered Laptop Notebook Cooler Cooling Pad Stand Chill Mat with 3 Blue LED Fans, Fits 12-17 Inches",
+                "url": "assets/Images/Cooling Fans/External/3.jpg",
+                "price": 25
+              },
+                {
+                  "_id": {
+                    "$oid": "634d185fd9c008dc4140ebeb"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 3000 red color",
+                  "url": "assets/Images/Headphones/hp1.png",
+                  "price": 120
+                },
+                {
+                  "_id": {
+                    "$oid": "634d1943d9c008dc4140ebec"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 3500 black color",
+                  "url": "assets/Images/Headphones/hp2.png",
+                  "price": 150
+                },
+                {
+                  "_id": {
+                    "$oid": "634d197ed9c008dc4140ebed"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 4000 black color",
+                  "url": "assets/Images/Headphones/hp3.png",
+                  "price": 170
+                },
+                {
+                  "_id": {
+                    "$oid": "634d19bfd9c008dc4140ebee"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 5000 silver color",
+                  "url": "assets/Images/Headphones/hp4.png",
+                  "price": 200
+                },
+                {
+                  "_id": {
+                    "$oid": "634d19fdd9c008dc4140ebef"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 5500 orange color",
+                  "url": "assets/Images/Headphones/hp5.png",
+                  "price": 250
+                },
+                {
+                  "_id": {
+                    "$oid": "634d1a3ad9c008dc4140ebf0"
+                  },
+                  "category": "Headphones-Speakers",
+                  "description": " Sony x 6000  brown color",
+                  "url": "assets/Images/Headphones/hp6.png",
+                  "price": 300
+                },
+                  {
+                    "_id": {
+                      "$oid": "634d1354d9c008dc4140ebe0"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "Lenovo - 2022 - IdeaPad Gaming 3 - 15.6 FHD - 120Hz - AMD Ryzen 5 6600H - 8GB DDR5 RAM - 256GB SSD - NVIDIA RTX 3050 Graphics - Windows 11 Home - Free 3-Month Xbox Game Pass",
+                    "url": "assets/Images/Laptops/Gaming/1.jpg",
+                    "price": 898
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d1354d9c008dc4140ebe5"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "HP Victus 15.6 Gaming Laptop PC NVIDIA GeForce RTX 3050 Ti, AMD Ryzen 7 5800H, Refined 1080p IPS Display, Compact Design, All-in-One Keyboard with Enlarged Touchpad, HD Webcam 15-fb0028nr, 2022",
+                    "url": "assets/Images/Laptops/Gaming/2.jpg",
+                    "price": 944
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d148fd9c008dc4140ebe4"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "Acer Nitro 5 AN515-57-79TD Gaming Laptop | Intel Core i7-11800H | NVIDIA GeForce RTX 3050 Ti Laptop GPU | 15.6 FHD 144Hz IPS Display | 8GB DDR4 | 512GB NVMe SSD | Killer Wi-Fi 6 | Backlit Keyboard",
+                    "url": "assets/Images/Laptops/Gaming/3.jpg",
+                    "price": 888
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d1515d9c008dc4140ebe5"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "ASUS TUF Gaming F15 Gaming Laptop 15.6â€ 144Hz FHD IPS-Type Display, Intel Core i5-10300H Processor, GeForce GTX 1650, 8GB DDR4 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11 Home, FX506LH-AS51",
+                    "url": "assets/Images/Laptops/Gaming/4.jpg",
+                    "price": 649
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d156ed9c008dc4140ebe6"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "ASUS TUF Dash 15 2022 Gaming Laptop 15.6 144Hz FHD Display, Intel Core i7-12650H, GeForce RTX 3060, 16GB DDR5, 512GB SSD, Thunderbolt 4, Thunderbolt 4, Windows 11 Home, Off Black, FX517ZM-AS73",
+                    "url": "assets/Images/Laptops/Gaming/5.jpg",
+                    "price": 1289
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d15cfd9c008dc4140ebe7"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "Newest HP Envy 17-CG000 Gaming Laptop 17.3 Full HD 10th Gen Intel i7 up to 3.9GHz 16GB RAM 1TB Solid State Drive BO Audio WiFi HDMI NVIDIA 4GB",
+                    "url": "assets/Images/Laptops/Gaming/6.jpg",
+                    "price": 1390
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d1620d9c008dc4140ebe8"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "17.3 AORUS 17 Gaming Laptop from Gigabyte Designed to provide exceptional performance for gamers, enthusiasts, and content creators, this laptop features a 12th generation Intel Core i9 14-core processor, 32GB of DDR5 memory, and a fast 1TB",
+                    "url": "assets/Images/Laptops/Gaming/7.jpg",
+                    "price": 1225
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d1671d9c008dc4140ebe9"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "Acer 15.6 Nitro 5 Gaming NotebookC Sporting a unique gaming-focused aesthetic and components, the Nitro 5 gives you ample power to run a wide range of your favorite titles with ease",
+                    "url": "assets/Images/Laptops/Gaming/8.jpg",
+                    "price": 1652
+                  },
+                  {
+                    "_id": {
+                      "$oid": "634d1799d9c008dc4140ebea"
+                    },
+                    "category": "Gaming Laptops",
+                    "description": "17.3 Katana GF76 Gaming Laptop from MSI Designed for realistic and immersive gameplay, this laptop features an NVIDIA GeForce RTX 3060 graphics card with ray tracing technology and streamlined AI optimization. Additionally, the 17.3 Full HD IPS display delivers a",
+                    "url": "assets/Images/Laptops/Gaming/9.jpg",
+                    "price": 2750
+                  }
+]

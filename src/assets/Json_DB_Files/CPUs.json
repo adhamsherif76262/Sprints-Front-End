@@ -1,0 +1,56 @@
+[
+  {
+    "_id": {
+      "$oid": "634d0748b38eb48216fdd5da"
+    },
+    "category": "CPUs",
+    "description": "Intel Core i3 9th generation",
+    "url": "assets/Images/CPUs/cpu1.png",
+    "price": 300
+  },
+  {
+    "_id": {
+      "$oid": "634d07b7b38eb48216fdd5db"
+    },
+    "category": "CPUs",
+    "description": "Intel Core i5 9th generation",
+    "url": "assets/Images/CPUs/cpu2.png",
+    "price": 600
+  },
+  {
+    "_id": {
+      "$oid": "634d07ddb38eb48216fdd5dc"
+    },
+    "category": "CPUs",
+    "description": "Intel Core i7 10th generation",
+    "url": "assets/Images/CPUs/cpu3.png",
+    "price": 1200
+  },
+  {
+    "_id": {
+      "$oid": "634d0807b38eb48216fdd5dd"
+    },
+    "category": "CPUs",
+    "description": "Intel Core i9 9th generation",
+    "url": "assets/Images/CPUs/cpu5.png",
+    "price": 1800
+  },
+  {
+    "_id": {
+      "$oid": "634d0846b38eb48216fdd5de"
+    },
+    "category": "CPUs",
+    "description": "Intel Core i9 10th generation",
+    "url": "assets/Images/CPUs/cpu4.png",
+    "price": 2300
+  },
+  {
+    "_id": {
+      "$oid": "634d08ceb38eb48216fdd5df"
+    },
+    "category": "CPUs",
+    "description": "AMD ryzen 5 5600 x",
+    "url": "assets/Images/CPUs/cpu6.png",
+    "price": 2500
+  }
+]

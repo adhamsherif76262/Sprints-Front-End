@@ -1,0 +1,24 @@
+<div id="First_Div">
+  <div id="Second_Div">
+    <a routerLink="/product-item-details" >
+      <img class="" src="{{ product.url }}" height="320" alt="Product Image Load Failed !!" (click)="previewproduct(product)">
+    </a>
+    <h3>{{ product.description }}</h3>
+    <h2>${{ product.price }}</h2>
+    <button class="btn" type="button" (click)="Add_To_Cart(product)">Add To Cart</button>
+    <br>
+    <select name="Required_Quantity" id="Quantity" aria-label="Quantity" [(ngModel)]="product.Quantity">
+      <option class="Option" value="1" selected>1</option>
+      <option class="Option" value="2">2</option>
+      <option class="Option" value="3">3</option>
+      <option class="Option" value="4">4</option>
+      <option class="Option" value="5">5</option>
+      <option class="Option" value="6">6</option>
+      <option class="Option" value="7">7</option>
+      <option class="Option" value="8">8</option>
+      <option class="Option" value="9">9</option>
+      <option class="Option" value="10">10</option>
+    </select>
+  </div>
+</div>
+

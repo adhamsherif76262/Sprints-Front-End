@@ -1,0 +1,97 @@
+body{
+  background-image: url(/assets/Images/Logo.png);
+  background-attachment:fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+img {
+  border-radius: 15px;
+  width: 500px;
+}
+
+img:hover{
+
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+
+  filter: grayscale(50%);
+}
+
+.select-input {
+  width: 108px;
+  margin-bottom: 8px;
+}
+
+.detail-container {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin-top: 0px;
+  margin-left: 400px;
+  color: rgb(253, 93, 0);
+  font-weight: bold;
+  font-size: 25px;
+}
+.detail-item {
+  margin-left: 128px;
+  margin-right: 128px;
+  flex-direction: column;
+}
+
+label{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+input{
+  font-size: 13px;
+  font-weight: bold;
+}
+select{
+  font-size: 13px;
+  font-weight: bold;
+}
+.back-link {
+  margin-top: 8px;
+  font-size: 23px;
+}
+
+.back-link:hover{
+  margin-top: 8px;
+  background-image: radial-gradient(red,black);
+  font-size: 23px;
+  color: white;
+}
+
+* {box-sizing: border-box;}
+
+.img-comp-container {
+  position: relative;
+  height: 200px; /*should be the same height as the images*/
+}
+
+.img-comp-img {
+  position: absolute;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+}
+
+.img-comp-img img {
+  display: block;
+  vertical-align: middle;
+}
+
+.img-comp-slider {
+  position: absolute;
+  z-index: 9;
+  cursor: ew-resize;
+  /*set the appearance of the slider:*/
+  width: 40px;
+  height: 40px;
+  background-color: #2196F3;
+  opacity: 0.7;
+  border-radius: 30%;
+}

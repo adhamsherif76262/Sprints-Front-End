@@ -1,0 +1,110 @@
+[
+  {
+    "_id": {
+      "$oid": "634d20c1d9c008dc4140ec02"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Seagate IronWolf Pro 16TB NAS Internal Hard Drive HDD – CMR 3.5 Inch SATA 6GB/S 7200 RPM 256MB Cache for Raid Network Attached Storage, Data Recovery Rescue Service",
+    "url": "assets/Images/Memory Storages/Internal/1.jpg",
+    "price": 269
+  },
+  {
+    "_id": {
+      "$oid": "634d20fed9c008dc4140ec03"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Toshiba N300 8TB NAS 3.5-Inch Internal Hard Drive - CMR SATA 6 GB/s 7200 RPM 256 MB Cache - HDWG480XZSTA",
+    "url": "assets/Images/Memory Storages/Internal/2.jpg",
+    "price": 135
+  },
+  {
+    "_id": {
+      "$oid": "634d21c9d9c008dc4140ec04"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Western Digital 8TB WD Red Plus NAS Internal Hard Drive HDD - 5640 RPM, SATA 6 Gb/s, CMR, 128 MB Cache, 3.5 - WD80EFZZ",
+    "url": "assets/Images/Memory Storages/Internal/3.jpg",
+    "price": 174
+  },
+  {
+    "_id": {
+      "$oid": "634d221fd9c008dc4140ec05"
+    },
+    "category": "Internal-External-Memory-Storages",
+    "description": "Western Digital 4TB WD Purple Surveillance Internal Hard Drive HDD - SATA 6 Gb/s, 64 MB Cache, 3.5 - WD40PURZ",
+    "url": "assets/Images/Memory Storages/Internal/4.jpg",
+    "price": 85
+  },
+  {
+    "_id": {
+      "$oid": "634d2274d9c008dc4140ec06"
+    },
+    "category": "Internal-External-Memory-Storages",
+    "description": "Western Digital 2TB WD Blue PC Internal Hard Drive - 7200 RPM Class, SATA 6 Gb/s, 256 MB Cache, 3.5 - WD20EZBX ",
+    "url": "assets/Images/Memory Storages/Internal/5.jpg",
+    "price": 49
+  },
+  {
+    "_id": {
+      "$oid": "634d22dbd9c008dc4140ec07"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Seagate SkyHawk 6TB Surveillance Internal Hard Drive HDD – 3.5 Inch SATA 6GB/s 256MB Cache for DVR NVR Security Camera System with Drive Health Management. Frustration Free Packaging",
+    "url": "assets/Images/Memory Storages/Internal/6.jpg",
+    "price": 159
+  },
+  {
+    "_id": {
+      "$oid": "634d2319d9c008dc4140ec08"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Seagate Portable 2TB External Hard Drive Portable HDD – USB 3.0 for PC, Mac, PlayStation, & Xbox - 1-Year Rescue Service ",
+    "url": "assets/Images/Memory Storages/External/1.jpg",
+    "price": 62
+  },
+  {
+    "_id": {
+      "$oid": "634d238bd9c008dc4140ec09"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "WD 5TB Elements Portable External Hard Drive USB 3.0, Compatible with PC, Mac, PS4 & Xbox - WDBU6Y0050BBK-WESN",
+    "url": "assets/Images/Memory Storages/External/2.jpg",
+    "price": 110
+  },
+  {
+    "_id": {
+      "$oid": "634d23cad9c008dc4140ec0a"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Toshiba Canvio Basics 2TB Portable External Hard Drive USB 3.0, Black - HDTB420XK3AA",
+    "url": "assets/Images/Memory Storages/External/3.jpg",
+    "price": 60
+  },
+  {
+    "_id": {
+      "$oid": "634d2424d9c008dc4140ec0b"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "WD 4TB My Passport Portable External Hard Drive with backup software and password protection, Black - WDBPKJ0040BBK-WESN",
+    "url": "assets/Images/Memory Storages/External/4.jpg",
+    "price": 90
+  },
+  {
+    "_id": {
+      "$oid": "634d24b4d9c008dc4140ec0c"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "LaCie Rugged Mini 2TB External Hard Drive Portable HDD - USB 3.0 USB 2.0 Compatible, Drop Shock Dust Rain Resistant Shuttle Drive, For Mac And PC Computer",
+    "url": "assets/Images/Memory Storages/External/5.jpg",
+    "price": 100
+  },
+  {
+    "_id": {
+      "$oid": "634d2595d9c008dc4140ec0e"
+    },
+    "category": "Internal-External-Memory-Storages ",
+    "description": "UnionSine 500GB 2.5 Ultra Slim Portable External Hard Drive HDD-USB 3.0 for PC, Mac, Laptop, PS4, Xbox one,Xbox 360-HD-2510",
+    "url": "assets/Images/Memory Storages/External/6.jpg",
+    "price": 36
+  }
+]

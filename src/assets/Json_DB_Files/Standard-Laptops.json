@@ -1,0 +1,83 @@
+[
+  {
+    "_id": {
+      "$oid": "634d4637d9c008dc4140ec25"
+    },
+    "category": "Standard-Laptops",
+    "description": "Acer Chromebook 512 Laptop | Intel Celeron N4020 | 12 HD+ Display | Intel UHD Graphics 600 | 4GB LPDDR4 | 32GB eMMC | Intel 9560 802.11ac Gigabit WiFi 5 | MIL-STD 810G | Chrome OS | CB512-C1KJ",
+    "url": "assets/Images/Laptops/Standard/1.jpg",
+    "price": 370
+  },
+  {
+    "_id": {
+      "$oid": "634d467cd9c008dc4140ec26"
+    },
+    "category": "Standard-Laptops",
+    "description": "Lenovo - 2022 - IdeaPad 3i - Essential Laptop Computer - Intel Core i5 12th Gen - 15.6 FHD Display - 8GB Memory - 512GB Storage - Windows 11 Pro",
+    "url": "assets/Images/Laptops/Standard/2.jpg",
+    "price": 615
+  },
+  {
+    "_id": {
+      "$oid": "634d46d5d9c008dc4140ec28"
+    },
+    "category": "Standard-Laptops",
+    "description": "HP Stream 11 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 11.6 HD Anti-Glare Display, Windows 11, Long Battery Life, Thin & Portable, Includes Microsoft 365  11-ak0040nr, 2021 Diamond White",
+    "url": "assets/Images/Laptops/Standard/3.jpg",
+    "price": 1280
+  },
+  {
+    "_id": {
+      "$oid": "634d47b5d9c008dc4140ec29"
+    },
+    "category": "Standard-Laptops",
+    "description": "2022 Newest Lenovo Ideapad 3 Laptop, 15.6 HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+    "url": "assets/Images/Laptops/Standard/4.jpg",
+    "price": 1100
+  },
+  {
+    "_id": {
+      "$oid": "634d47f1d9c008dc4140ec2a"
+    },
+    "category": "Standard-Laptops",
+    "description": "LG gram (2022) 16Z90Q Ultra Lightweight Laptop, 16 (2560 x 1600) IPS Display, Intel Evo 12th Gen i7 1260P Processor, 16GB LPDDR5, 256GB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows11, Black",
+    "url": "assets/Images/Laptops/Standard/5.jpg",
+    "price": 2315
+  },
+  {
+    "_id": {
+      "$oid": "634d4841d9c008dc4140ec2b"
+    },
+    "category": "Standard-Laptops",
+    "description": "Acer Aspire 5 A515-45-R74Z Slim Laptop | 15.6 Full HD IPS | AMD Ryzen 5 5500U Hexa-Core Mobile Processor | AMD Radeon Graphics | 8GB DDR4 | 256GB NVMe SSD | WiFi 6 | Backlit KB | Windows 11 Home<",
+    "url": "assets/Images/Laptops/Standard/6.jpg",
+    "price": 2780
+  },
+  {
+    "_id": {
+      "$oid": "634d4888d9c008dc4140ec2c"
+    },
+    "category": "Standard-Laptops",
+    "description": "ASUS Vivobook Go 15 L510 Thin & Light Laptop Computer, 15.6” FHD Display, Intel Celeron N4020 Processor, 4GB RAM, 64GB Storage, Windows 11 Home in S Mode, 1 Year Microsoft 365, Star Black, L510MA-AS02",
+    "url": "assets/Images/Laptops/Standard/7.jpg",
+    "price": 1870
+  },
+  {
+    "_id": {
+      "$oid": "634d48b3d9c008dc4140ec2d"
+    },
+    "category": "Standard-Laptops",
+    "description": "HP 17 Laptop PC, 11 Generation Intel Core, 4 GB RAM, 256 GB SSD, UHD Graphics, 17.3 HD+ Display, Windows 11 Home, Wi-Fi & Bluetooth Combo, 7 Ports, Long Battery Life, HD Webcam 17-by4025nr, 2022",
+    "url": "assets/Images/Laptops/Standard/8.jpg",
+    "price": 2100
+  },
+  {
+    "_id": {
+      "$oid": "634d48f3d9c008dc4140ec2e"
+    },
+    "category": "Standard-Laptops",
+    "description": "AMSUNG Galaxy Chromebook 4 11.6” 64GB Laptop Computer w/ 4GB RAM, Gigabit WiFi, HD Intel Celeron Processor, Compact Design, Military Grade Durability, US Version, Silver",
+    "url": "assets/Images/Laptops/Standard/9.jpg",
+    "price": 2500
+  }
+]

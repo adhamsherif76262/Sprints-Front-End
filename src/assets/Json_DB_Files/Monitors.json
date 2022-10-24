@@ -1,0 +1,56 @@
+[
+  {
+    "_id": {
+      "$oid": "634d39bed9c008dc4140ec15"
+    },
+    "category": " Monitors",
+    "description": "Acer annonces predator z1 curved Gaming",
+    "url": "assets/Images/Monitors/m1.png",
+    "price": 300
+  },
+  {
+    "_id": {
+      "$oid": "634d401dd9c008dc4140ec16"
+    },
+    "category": " Monitors",
+    "description": "Razer Raptor 144 hz Gaming Monitor",
+    "url": "assets/Images/Monitors/m2.png",
+    "price": 250
+  },
+  {
+    "_id": {
+      "$oid": "634d4089d9c008dc4140ec17"
+    },
+    "category": " Monitors",
+    "description": "Asus Mg 278q Gaming Monitor",
+    "url": "assets/Images/Monitors/m3.png",
+    "price": 280
+  },
+  {
+    "_id": {
+      "$oid": "634d40bbd9c008dc4140ec18"
+    },
+    "category": " Monitors",
+    "description": " Aorus AD 27qd annonces",
+    "url": "assets/Images/Monitors/m4.png",
+    "price": 180
+  },
+  {
+    "_id": {
+      "$oid": "634d40fdd9c008dc4140ec19"
+    },
+    "category": " Monitors",
+    "description": "Msi Samsung Curved Gaming Monitor",
+    "url": "assets/Images/Monitors/m5.png",
+    "price": 320
+  },
+  {
+    "_id": {
+      "$oid": "634d4147d9c008dc4140ec1a"
+    },
+    "category": " Monitors",
+    "description": "Omen X 35 Gaming Monitor.png",
+    "price": 240 ,
+    "url": "assets/Images/Monitors/m6.png"
+  }
+]

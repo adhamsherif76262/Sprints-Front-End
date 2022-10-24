@@ -1,0 +1,88 @@
+[
+  {
+    "_id": "634d08ceb38eb48216fdd5df",
+    "category": "CPUs",
+    "description": "AMD ryzen 5 5600 x",
+    "url": "assets/Images/CPUs/cpu6.png",
+    "price": 2500
+  },
+  {
+    "_id": "634d401dd9c008dc4140ec16",
+    "category": " Monitors",
+    "description": "Razer Raptor 144 hz Gaming Monitor",
+    "url": "assets/Images/Monitors/m2.png",
+    "price": 250
+  },
+  {
+    "_id": "634d420bd9c008dc4140ec1c",
+    "category": "Mouses-Keyboards",
+    "description": "Razer balckwidow Gaming Keyboard",
+    "url": "assets/Images/Keyboards/k2.png",
+    "price": 65
+  },
+  {
+    "_id": "634d31edd9c008dc4140ec0f",
+    "category": "  Mobile-Phones",
+    "description": "iphone 11 pro max 128 GB",
+    "url": "assets/Images/Mobiles/mp1.png",
+    "price": 100
+  },
+  {
+    "_id": "634d47f1d9c008dc4140ec2a",
+    "category": "Standard-Laptops",
+    "description": "LG gram (2022) 16Z90Q Ultra Lightweight Laptop, 16 (2560 x 1600) IPS Display, Intel Evo 12th Gen i7 1260P Processor, 16GB LPDDR5, 256GB NVMe SSD, FHD Webcam, WiFi 6E, Thunderbolt 4, Windows11, Black",
+    "url": "assets/Images/Laptops/Standard/5.jpg",
+    "price": 2315
+  },
+  {
+    "_id":"634d1354d9c008dc4140ebe0",
+    "category": "Gaming Laptops",
+    "description": "Lenovo - 2022 - IdeaPad Gaming 3 - 15.6 FHD - 120Hz - AMD Ryzen 5 6600H - 8GB DDR5 RAM - 256GB SSD - NVIDIA RTX 3050 Graphics - Windows 11 Home - Free 3-Month Xbox Game Pass",
+    "url": "assets/Images/Laptops/Gaming/1.jpg",
+    "price": 898
+  },
+  {
+    "_id":"634d185fd9c008dc4140ebeb",
+    "category": "Headphones-Speakers",
+    "description": " Sony x 3000 red color",
+    "url": "assets/Images/Headphones/hp1.png",
+    "price": 120
+  },
+  {
+    "_id": "634d1a3ad9c008dc4140ebf0",
+    "category": "Headphones-Speakers",
+    "description": " Sony x 6000  brown color",
+    "url": "assets/Images/Headphones/hp6.png",
+    "price": 300
+  },
+  {
+    "_id": "634d20c1d9c008dc4140ec02",
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Seagate IronWolf Pro 16TB NAS Internal Hard Drive HDD – CMR 3.5 Inch SATA 6GB/S 7200 RPM 256MB Cache for Raid Network Attached Storage, Data Recovery Rescue Service",
+    "url": "assets/Images/Memory Storages/Internal/1.jpg",
+    "price": 269
+  },
+  {
+    "_id": "634d22dbd9c008dc4140ec07",
+    "category": "Internal-External-Memory-Storages ",
+    "description": "Seagate SkyHawk 6TB Surveillance Internal Hard Drive HDD – 3.5 Inch SATA 6GB/s 256MB Cache for DVR NVR Security Camera System with Drive Health Management. Frustration Free Packaging",
+    "url": "assets/Images/Memory Storages/Internal/6.jpg",
+    "price": 159
+  },
+  {
+    "_id": "634d1c04d9c008dc4140ebf6",
+    "category": "Internal-External-Cooling-Fans",
+    "description": "ARESGAME CPU Air Cooler for Intel/AMD with 5 Direct Contact Heatpipes and 120mm PWM Fan - Black",
+    "url": "assets/Images/Cooling Fans/Internal/2.jpg",
+    "price": 30
+  },
+  {
+    "_id": {
+      "$oid": "634d1f16d9c008dc4140ebff"
+    },
+    "category": "Internal-External-Cooling-Fans",
+    "description": "TopMate C11 Laptop Cooling Pad RGB Gaming Notebook Cooler, Laptop Fan Stand Adjustable Height with 6 Quiet Fans and Phone Holder, Computer Chill Mat, for 15.6-17.3 Inch Laptops - Ice Blue LED Light",
+    "url": "assets/Images/Cooling Fans/External/1.jpg",
+    "price": 36
+  }
+]

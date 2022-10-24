@@ -1,0 +1,21 @@
+<button (click)="scrollToTop()" id="To_Top" title="Go to top">Top</button>
+
+  <footer>
+    <form action="action_page.php">
+      <div class="container">
+        <h2>Subscribe to our Newsletter</h2>
+      </div>
+
+      <div class="container" id="Footer_Div">
+        <input type="text" placeholder="Name" name="name" id="Newsletter_Name" required>
+        <input type="text" placeholder="Email address" name="mail" id="Newsletter_Email" required>
+        <label>
+          <input  type="checkbox" checked="checked" name="subscribe"> Daily Newsletter
+        </label>
+      </div>
+
+      <div class="container" id="Have_Subscribed">
+        <a routerLink="/Sign-In"  type="submit">Subscribe</a>
+      </div>
+    </form>
+  </footer>

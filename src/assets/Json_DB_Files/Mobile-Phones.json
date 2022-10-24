@@ -1,0 +1,56 @@
+[
+  {
+    "_id": {
+      "$oid": "634d31edd9c008dc4140ec0f"
+    },
+    "category": "  Mobile-Phones",
+    "description": "iphone 11 pro max 128 GB",
+    "url": "assets/Images/Mobiles/mp1.png",
+    "price": 100
+  },
+  {
+    "_id": {
+      "$oid": "634d3265d9c008dc4140ec10"
+    },
+    "category": "  Mobile-Phones",
+    "description": "iphone 12 128 GB",
+    "url": "assets/Images/Mobiles/mp2.png",
+    "price": 120
+  },
+  {
+    "_id": {
+      "$oid": "634d3292d9c008dc4140ec11"
+    },
+    "category": " Mobile-Phones",
+    "description": "iphone xr 256 GB",
+    "url": "assets/Images/Mobiles/mp3.png",
+    "price": 70
+  },
+  {
+    "_id": {
+      "$oid": "634d32d6d9c008dc4140ec12"
+    },
+    "category": "  Mobile-Phones",
+    "description": "samsung 20ultra 256 GB",
+    "url": "assets/Images/Mobiles/mp4.png",
+    "price": 110
+  },
+  {
+    "_id": {
+      "$oid": "634d33b6d9c008dc4140ec13"
+    },
+    "category": "  Mobile-Phones",
+    "description": "xaomi redmi note 5 128 GB",
+    "url": "assets/Images/Mobiles/mp5.png",
+    "price": 30
+  },
+  {
+    "_id": {
+      "$oid": "634d33edd9c008dc4140ec14"
+    },
+    "category": "  Mobile-Phones",
+    "description": "HUAWEI NOVA 128 GB",
+    "url": "assets/Images/Mobiles/mp6.png",
+    "price": 65
+  }
+]

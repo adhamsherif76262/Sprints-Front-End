@@ -1,0 +1,83 @@
+[
+  {
+    "_id": {
+      "$oid": "634d4200d9c008dc4140ec1b"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Corsair partable k63 Gaming Keyboard",
+    "url": "assets/Images/Keyboards/k1.png",
+    "price": 50
+  },
+  {
+    "_id": {
+      "$oid": "634d420bd9c008dc4140ec1c"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Razer balckwidow Gaming Keyboard",
+    "url": "assets/Images/Keyboards/k2.png",
+    "price": 65
+  },
+  {
+    "_id": {
+      "$oid": "634d4261d9c008dc4140ec1d"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Poseidon Mechanical Gaming Keyboard",
+    "url": "assets/Images/Keyboards/k3.png",
+    "price": 65
+  },
+  {
+    "_id": {
+      "$oid": "634d42ded9c008dc4140ec1e"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "GXT R188 RGB Gaming Mouse",
+    "url": "assets/Images/Mouses/mou1.png",
+    "price": 65
+  },
+  {
+    "_id": {
+      "$oid": "634d432fd9c008dc4140ec1f"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Corsair Glavie RGB Gaming Mouse",
+    "url": "assets/Images/Mouses/mou2.png",
+    "price": 55
+  },
+  {
+    "_id": {
+      "$oid": "634d4358d9c008dc4140ec20"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Logitech K675 RGB Gaming Mouse",
+    "url": "assets/Images/Mouses/mou3.png",
+    "price": 80
+  },
+  {
+    "_id": {
+      "$oid": "634d439ed9c008dc4140ec21"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Razer R188 RGB aming Mouse",
+    "url": "assets/Images/Mouses/mou4.png",
+    "price": 95
+  },
+  {
+    "_id": {
+      "$oid": "634d4417d9c008dc4140ec22"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Corsair N477 RGB Gaming Mouse",
+    "url": "assets/Images/Mouses/mou6.png",
+    "price": 120
+  },
+  {
+    "_id": {
+      "$oid": "634d4472d9c008dc4140ec23"
+    },
+    "category": "Mouses-Keyboards",
+    "description": "Logitech S654 RGB Gaming Mouse",
+    "url": "assets/Images/Mouses/mou5.png",
+    "price": 105
+  }
+]
